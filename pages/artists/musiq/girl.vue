@@ -118,7 +118,6 @@ export default {
                     ref2.set(data);
                 }
             });
-            
         },
     },
     created(){
